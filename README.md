@@ -46,11 +46,23 @@ Follow these steps to run the project locally:
 ### 1. Clone the repository
 ```bash
 git clone [https://github.com/your-username/memory-card-game.git](https://github.com/ramshasaleem2/Memory-Card-Game/)
+
+```
+### 2. Navigate to project folder
 ```bash
 cd memory-card-game
+
+```
+3. Install dependencies
 ```bash
 npm install
+
+```
+4. Start development server
 ```bash
 npm run dev
 
----
+```
+Open ([http://localhost:3000](http://localhost:3000/)) in your browser to view the project.
+
+
