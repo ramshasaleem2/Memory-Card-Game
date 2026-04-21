@@ -45,7 +45,7 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/memory-card-game.git](https://github.com/ramshasaleem2/Memory-Card-Game/)
+git clone https://github.com/your-username/memory-card-game.git
 
 ```
 ### 2. Navigate to project folder
