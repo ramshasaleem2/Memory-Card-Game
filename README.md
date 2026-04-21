@@ -1,16 +1,56 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🧠 Memory Card Game (React)
 
-Currently, two official plugins are available:
+A fun and interactive **Memory Card Game** built using **React**. 
+The goal is to match all pairs of cards in the fewest moves and shortest time possible while improving memory and concentration skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🎮 How to Play
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Click on a card to flip it.
+- Try to find its matching pair.
+- If both cards match, they stay revealed.
+- If they don’t match, they flip back after a short delay.
+- Match all pairs to win the game.
+- Try to complete the game in fewer moves and less time!
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- ⚛️ React 
+- 🎣 React Hooks (`useState`, `useEffect`)
+- 🎨 CSS
+- ⚡ Vite / Create React App 
+- 🧠 JavaScript (ES6+)
+
+---
+
+
+## ⚙️ Features
+
+- 🎴 Smooth card flip animations
+- 🔄 Random card shuffling each game
+- ⏱️ Move counter / optional timer
+- 🏆 Win detection system
+- 🔁 Restart game functionality
+- 📱 Fully responsive design (mobile + desktop)
+
+---
+
+## 🧑‍💻 Installation & Setup
+
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+```bash
+git clone [https://github.com/your-username/memory-card-game.git](https://github.com/ramshasaleem2/Memory-Card-Game/)
+```bash
+cd memory-card-game
+```bash
+npm install
+```bash
+npm run dev
+
+---
