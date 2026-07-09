@@ -63,6 +63,12 @@ npm install
 npm run dev
 
 ```
-Open (https://memory-card-game-lac-seven.vercel.app/) in your browser to view the project.
 
+---
+
+🌐 Live Demo
+
+👉 https:////memory-card-game-lac-seven.vercel.app/
+
+---
 
