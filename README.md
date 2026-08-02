@@ -68,7 +68,7 @@ npm run dev
 
 🌐 Live Demo
 
-👉 https:////memory-card-game-lac-seven.vercel.app/
+👉 https://memory-card-game-lac-seven.vercel.app/
 
 ---
 
